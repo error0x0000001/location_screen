@@ -52,7 +52,7 @@ A Flutter application to manage attendance with features like viewing member det
 3. **Run the app:**
 
     ```bash
-    flutter run
+    Run from the run with or without debugging from the toolbar of vscode or any other IDE
     ```
 
 ## Usage
