@@ -19,13 +19,13 @@ A Flutter application to manage attendance with features like viewing member det
 - Responsive design.
 
 ## Screenshots
+<img src="screenshots/screenshot1.png" width="300">
+<img src="screenshots/screenshot2.png" width="300">
+<img src="screenshots/screenshot3.png" width="300">
+<img src="screenshots/screenshot4.png" width="300">
+<img src="screenshots/screenshot5.png" width="300">
+<img src="screenshots/screenshot6.png" width="300">
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
-![Screenshot 6](screenshots/screenshot6.png)
 
 ## Installation
 
