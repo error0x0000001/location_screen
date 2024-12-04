@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "profilePicture": "https://media.gettyimages.com/id/1487465664/photo/portrait-employee-and-asian-woman-with-happiness-selfie-and-confident-entrepreneur-with.jpg?s=612x612&w=0&k=20&c=o-G4E27GNFTbxFSG7PbaamDPAPLPRsh2WWgtsiGdXDA=",
+    "status": "Present",
+    "currentLocation": {
+      "latitude": 28.6304,
+      "longitude": 77.2177,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 28.6310,
+        "longitude": 77.2186,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 28.6291,
+        "longitude": 77.2188,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "profilePicture": "https://media.gettyimages.com/id/1490474306/photo/happy-mature-and-portrait-of-a-woman-in-business-isolated-on-a-grey-background-in-a-studio.jpg?s=612x612&w=0&k=20&c=s5qJ_c4d9ZsbyX4ry90_GbnbIT2tj4ulCjsRXxIefLs=",
+    "status": "Present",
+    "currentLocation": {
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "profilePicture": "https://media.gettyimages.com/id/614295940/photo/new-delhi-india-bollywood-actor-manoj-bajpayee-during-an-interview-for-the-promotion-of-his.jpg?s=612x612&w=0&k=20&c=0v998goKJ01dQfXQEhRJfZFvn6dFSUtNaDKzd08WFaY=",
+    "status": "Present",
+    "currentLocation": {
+      "latitude": 18.9220,
+      "longitude": 72.8347,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 18.9633,
+        "longitude": 72.9315,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 18.9608,
+        "longitude": 72.9313,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "profilePicture": "https://media.gettyimages.com/id/157527277/photo/weimaraner-in-awe.jpg?s=612x612&w=0&k=20&c=P7gWErribI2hD-IB0_jVZddt6Xesb9HIw6ClB0-UtZ4=",
+    "status": "Absent",
+    "currentLocation": {
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 51.5155,
+        "longitude": -0.0922,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charlie Davis",
+    "profilePicture": "https://media.gettyimages.com/id/1548120399/photo/profile-of-black-cat.jpg?s=612x612&w=0&k=20&c=lrWz4U-rIBK7LhpBNzUfCCtn0CRRRXypy4dd9ZH6ZqY=",
+    "status": "Absent",
+    "currentLocation": {
+      "latitude": 15.5553,
+      "longitude": 73.7517,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 15.5494,
+        "longitude": 73.7535,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 15.5733,
+        "longitude": 73.7410,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Diana Evans",
+    "profilePicture": "https://media.gettyimages.com/id/1427894275/photo/portrait-of-bearded-man-in-cap-posing-in-profile-outdoors-profile-view-of-bearded-young-man.jpg?s=612x612&w=0&k=20&c=nDvqZgDtIp7QvfmqNenbcH__jdnYTGUbpXvy7ViYhe0=",
+    "status": "Present",
+    "currentLocation": {
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "timestamp": "2024-12-01T14:00:00Z"
+    },
+    "previousLocations": [
+      {
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "timestamp": "2024-11-30T10:00:00Z"
+      },
+      {
+        "latitude": 35.6762,
+        "longitude": 139.6503,
+        "timestamp": "2024-11-29T08:00:00Z"
+      }
+    ]
+  }
+]
